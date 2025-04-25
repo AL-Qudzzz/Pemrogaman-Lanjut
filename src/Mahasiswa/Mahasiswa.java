@@ -1,3 +1,5 @@
+package Mahasiswa;
+
 public class Mahasiswa {
     // Method untuk membaca
     public void membaca() {

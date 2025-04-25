@@ -1,3 +1,5 @@
+package Mahasiswa;
+
 public class MahasiswaBeraksi {
     public static void main(String[] args) {
         // Membuat objek dari class Mahasiswa
